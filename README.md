@@ -1,3 +1,10 @@
+# Hinweis
+
+Im Dezember 2024 wurde das Projekt in einer Sitzung des Lenkungskreises umbenannt. Der neue Name des Projekts **arkumu.nrw** verdeutlicht die Funktion des Projekts als Portal zu den **Ar**chiven der **Ku**nst- und **Mu**sikhochschulen in Nordrhein-Westfalen. Die bisherige Domain Digi-Kunst.nrw wird demnächst abgeschaltet.  Die Dokumentation ist ab sofort unter [docs.arkumu.nrw](https://docs.arkumu.nrw) abrufbar. Anfragen werden automatisch auf die neue Domain weitergeleitet. Dieses Repositorium erfährt keine weiteren Updates.
+
+---
+
+
 # Digi-Kunst.nrw-Docs
 
 Digi-Kunst.nrw-Docs ist die öffentliche Dokumentation des [Digitale Hochschule](https://www.dh.nrw/)-Konsortialprojekts "Digi-Kunst.nrw".
